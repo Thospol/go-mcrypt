@@ -1,0 +1,9 @@
+github.com/elliotchance/phpserialize v1.3.0 h1:yQ9t2spsOBp95V9qo4vPYIC2bXFaYOraRb8hpWd5E38=
+github.com/elliotchance/phpserialize v1.3.0/go.mod h1:gt7XX9+ETUcLXbtTKEuyrqW3lcLUAeS/AnGZ2e49TZs=
+github.com/mergermarket/go-pkcs7 v0.0.0-20170926155232-153b18ea13c9 h1:j6boLfPkcFlRVaKbc0hf5PVh3jJrdHv9n6SIPOdVKaU=
+github.com/mergermarket/go-pkcs7 v0.0.0-20170926155232-153b18ea13c9/go.mod h1:GH7jtq102ZiRB7LEKgqP54akN7GOVaNpCJrDWTeWSMY=
+github.com/mfpierre/go-mcrypt v0.0.0-20170529160712-80616da4b26f h1:CFifbr6mcuEUpt6PQlWI2B7AKA40yBjXJMJxOsA0WeM=
+github.com/mfpierre/go-mcrypt v0.0.0-20170529160712-80616da4b26f/go.mod h1:V8kWZhH463Hg+42G0pViDDMYVXzbsGU610g9gWaFl7Y=
+github.com/syyongx/php2go v0.9.4 h1:qUtETTHzqHzxZK8plkbkb0YawD8bpLpxNsbzHQmb22Y=
+github.com/syyongx/php2go v0.9.4/go.mod h1:meN2eIhhUoxOd2nMxbpe8g6cFPXI5O9/UAAuz7oDdzw=
+github.com/wulijun/go-php-serialize v0.0.0-20131104125240-bfe692b0100e h1:RvQKfrutTG8kkNKn9kTm0YHfEGS8xXhoptD9wjdTvww=
